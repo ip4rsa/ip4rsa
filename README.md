@@ -19,7 +19,7 @@ Hi 👋, i m<br>Parsa Sajjadian 👨‍💻<br>// Android and iOS application pr
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
   ## 💰 donate
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ip4rsa) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://www.coffeebede.com/parsatesla) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ip4rsa) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.coffeebede.com/parsatesla) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
