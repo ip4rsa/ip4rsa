@@ -12,13 +12,13 @@ Hi 👋, i m<br>Parsa Sajjadian 👨‍💻<br>// Android and iOS application pr
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ip4rsa&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ip4rsa&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
+## 📃 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=ip4rsa)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
-  ## 💰 donate
+  ## ❤️ donate
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ip4rsa) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.coffeebede.com/parsatesla) 
  <a href="https://www.coffeebede.com/parsatesla">دونیت تومان</a>
 
