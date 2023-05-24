@@ -12,8 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ip4rsa&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ip4rsa&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 📃 Latest Tweet
-![](https://gtce.itsvg.in/api?username=ParsaTesla&theme=github_dark)
+<!-- ## 📃 Latest Tweet
+![](https://gtce.itsvg.in/api?username=ParsaTesla&theme=github_dark) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
