@@ -1,6 +1,6 @@
 # About Me:
 <div align="center">
-![aboute](https://github.com/ip4rsa/TechBlog/assets/117844346/1baab268-f62c-4b90-bd83-54ee4865db55)
+(https://github.com/ip4rsa/TechBlog/assets/117844346/1baab268-f62c-4b90-bd83-54ee4865db55)
 </div>
 <br>
 flutter - Dart
