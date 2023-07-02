@@ -20,7 +20,7 @@
 
 ## Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-%237289DA.svg?logo=telegram&logoColor=white)](https://t.me/asrapMi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parsa-sajjadian-1b837624b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ParsaSajjadian)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ip4rsa)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PatsaTesla) 
 
