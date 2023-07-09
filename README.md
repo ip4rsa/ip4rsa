@@ -1,4 +1,5 @@
-# About Me:
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=BDBDBD&vCenter=true&repeat=false&width=435&lines=Here+is+Parsa+GitHub" alt="Typing SVG" /></a> 
+
 <div align="center">
 <img src="https://github.com/ip4rsa/TechBlog/assets/117844346/1baab268-f62c-4b90-bd83-54ee4865db55"/>
 </div>
