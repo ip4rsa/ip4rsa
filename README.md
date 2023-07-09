@@ -32,15 +32,17 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ip4rsa&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
 </p>
 
-<!-- ## 📃 Latest Tweet
-![](https://gtce.itsvg.in/api?username=ParsaTesla&theme=github_dark) -->
+#
 
-<!-- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
- -->
-  ## ❤️ donate
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ip4rsa) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.coffeebede.com/parsatesla) 
-<!--  <a href="https://www.coffeebede.com/parsatesla">دونیت تومان</a> -->
+<div align="center">
+ 
+### Show some ❤️ by starring some of the repositories!
+ 
+</div>
+ 
+ <!-- ## ❤️ donate
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ip4rsa) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.coffeebede.com/parsatesla)  -->
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
