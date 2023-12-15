@@ -39,7 +39,7 @@
 
 <div align="center">
  
-### Show some ❤️ by starring some of the repositories!
+### Thank you for your attention
  
 </div>
  
